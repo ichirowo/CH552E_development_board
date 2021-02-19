@@ -16,11 +16,6 @@ This board was created with Kicad version 5.1.9.
 
 ----
 
-### Please note:
-
-This is still under development and the design definitely contains errors!  
-
-**Use at your own risk, and we are not providing ANY user support at this time!**
 
 ### License
 
