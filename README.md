@@ -19,5 +19,5 @@ This board was created with Kicad version 5.1.9.
 
 ### License
 
-This project is licensed as MIT.
+This project is licensed as MIT License.
 
