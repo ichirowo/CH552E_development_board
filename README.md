@@ -21,5 +21,3 @@ This board was created with Kicad version 5.1.9.
 
 This project is licensed as MIT.
 
-[Creative Commons 3.0 Attribution, Sharealike](http://creativecommons.org/licenses/by-sa/3.0/)
-
